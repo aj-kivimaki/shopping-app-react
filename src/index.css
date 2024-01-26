@@ -1,1 +1,11 @@
-body {}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.img-container {
+  height: 450px;
+}
